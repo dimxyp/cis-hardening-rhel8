@@ -1,0 +1,4 @@
+- name: Run RHEL8 NBG Hardening 
+  hosts: linuxos 
+  roles:  
+    - RHEL8
